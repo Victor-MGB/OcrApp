@@ -1,0 +1,18 @@
+/* ImageUploader.css */
+.image-uploader-container {
+  text-align: center;
+  padding: 20px;
+  border: 2px dashed #ccc;
+  background-color: #f9f9f9;
+  cursor: pointer;
+}
+
+.image-uploader-container input {
+  display: none;
+}
+
+.image-uploader-container img {
+  max-width: 100%;
+  max-height: 200px;
+  margin-top: 10px;
+}
